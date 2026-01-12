@@ -204,11 +204,12 @@ nav ul li a{
 
 .skill-card{
   max-width:267px;
-  max-height:377px;
+  max-height:400px;
   padding:30px;
   border-radius:5px;
   box-shadow:0 6px 10px 0 #00000056;
   box-sizing: border-box;
+
 
 }
 
