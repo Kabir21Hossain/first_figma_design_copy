@@ -327,4 +327,5 @@ input[type="text"],input[type="email"],textarea{
   padding:18px 31px;
   color:#757575;
   margin-bottom:24px;
+  border:none;
 }
